@@ -1,2 +1,2 @@
 # Place-Vitae
-Link : https://place-vitae.netlify.app/
+Link : https://place-vitae-sih.netlify.app/
